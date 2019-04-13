@@ -2,7 +2,8 @@
 .litaf-section {
     padding: 20px 10px 20px 10px;
     color: #aaaaaa;
-    background: #121212;
+    background: #FFCD00;
+    opacity: .75;
 }
 
 html {
