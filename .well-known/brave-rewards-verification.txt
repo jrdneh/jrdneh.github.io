@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jrdn.co 
+Token: 9692451a4cdfa45536ea37274198f8e9f1ef818f5d8e394798a95c534e3ae123
