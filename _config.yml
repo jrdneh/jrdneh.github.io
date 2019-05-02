@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 title: jrdn.co
 description: meme's n shit
+include: [".well-known"]
