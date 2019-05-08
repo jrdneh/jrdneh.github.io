@@ -2,8 +2,8 @@
 .litaf-section {
     padding: 20px 10px 20px 10px;
     color: #aaaaaa;
-    background: #FFCD00;
-    opacity: .75;
+    background: #051549;
+    opacity: .85;
 }
 
 html {
@@ -52,8 +52,8 @@ body {
 }
 
 section {
-    padding-top: 4em;
-    padding-bottom: 4em;
+    padding-top: 10em;
+    padding-bottom: 10em;
 }
 
 .soc-item {
@@ -90,7 +90,7 @@ section {
 }
 
 a, a:hover {
-    color: #149dcc;
+    color: #FFFADA;
     text-decoration: none;
 }
 
